@@ -1,0 +1,21 @@
+Webpack:
+	☐	intro
+	☐	docs
+	☐	webpack-config
+
+index-01 - old school:
+	☐	nessuna dipendenza esplicita
+	☐	http://webpack.test/index-01.html
+
+index-02 - webpack:
+	☐	webpack.config
+	☐	decommentare js
+	☐	webpack (npm run build)
+	☐	http://webpack.test/index-02.html
+
+index-03 - mix:
+	☐	docs
+	☐	webpack.mix (npm run mix)
+	☐	http://webpack.test/index-03.html
+	☐	 
+	☐	next slide

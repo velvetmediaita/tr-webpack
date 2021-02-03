@@ -1,0 +1,10 @@
+@import '~normalize.css/normalize.css';
+
+body {
+	color: #333;
+	background-color: #F0F0F0;
+}
+
+h1 {
+	text-align: right;
+}
